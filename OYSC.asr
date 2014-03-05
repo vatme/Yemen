@@ -1,0 +1,239 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:OYSC.sct
+SECTORTITLE:OYSC.sct
+Airports:OYAA:name
+Airports:OYAA:symbol
+Airports:OYAT:name
+Airports:OYAT:symbol
+Airports:OYBN:name
+Airports:OYBN:symbol
+Airports:OYGD:name
+Airports:OYGD:symbol
+Airports:OYHD:name
+Airports:OYHD:symbol
+Airports:OYRN:name
+Airports:OYRN:symbol
+Airports:OYSN:name
+Airports:OYSN:symbol
+Airports:OYSQ:name
+Airports:OYSQ:symbol
+Airports:OYSY:name
+Airports:OYSY:symbol
+Airports:OYTZ:name
+Airports:OYTZ:symbol
+ARTCC boundary:F:
+ARTCC high boundary:H:
+ARTCC low boundary:L:
+Free Text:OYAA\1:freetext
+Free Text:OYAA\1:freetext
+Free Text:OYAA\1:freetext
+Free Text:OYAA\10:freetext
+Free Text:OYAA\11:freetext
+Free Text:OYAA\12:freetext
+Free Text:OYAA\13:freetext
+Free Text:OYAA\2:freetext
+Free Text:OYAA\2:freetext
+Free Text:OYAA\2:freetext
+Free Text:OYAA\2:freetext
+Free Text:OYAA\3:freetext
+Free Text:OYAA\3:freetext
+Free Text:OYAA\3:freetext
+Free Text:OYAA\3:freetext
+Free Text:OYAA\4:freetext
+Free Text:OYAA\4:freetext
+Free Text:OYAA\4:freetext
+Free Text:OYAA\4:freetext
+Free Text:OYAA\5:freetext
+Free Text:OYAA\5:freetext
+Free Text:OYAA\5:freetext
+Free Text:OYAA\5:freetext
+Free Text:OYAA\6:freetext
+Free Text:OYAA\6:freetext
+Free Text:OYAA\6:freetext
+Free Text:OYAA\6:freetext
+Free Text:OYAA\7:freetext
+Free Text:OYAA\7:freetext
+Free Text:OYAA\7:freetext
+Free Text:OYAA\8:freetext
+Free Text:OYAA\8:freetext
+Free Text:OYAA\9:freetext
+Free Text:OYSN\1:freetext
+Free Text:OYSN\1:freetext
+Free Text:OYSN\1:freetext
+Free Text:OYSN\1:freetext
+Free Text:OYSN\10:freetext
+Free Text:OYSN\10:freetext
+Free Text:OYSN\11:freetext
+Free Text:OYSN\11:freetext
+Free Text:OYSN\12:freetext
+Free Text:OYSN\12:freetext
+Free Text:OYSN\13:freetext
+Free Text:OYSN\13:freetext
+Free Text:OYSN\14:freetext
+Free Text:OYSN\14:freetext
+Free Text:OYSN\15:freetext
+Free Text:OYSN\15:freetext
+Free Text:OYSN\16:freetext
+Free Text:OYSN\16:freetext
+Free Text:OYSN\17:freetext
+Free Text:OYSN\17:freetext
+Free Text:OYSN\18:freetext
+Free Text:OYSN\18:freetext
+Free Text:OYSN\19:freetext
+Free Text:OYSN\19:freetext
+Free Text:OYSN\2:freetext
+Free Text:OYSN\2:freetext
+Free Text:OYSN\2:freetext
+Free Text:OYSN\2:freetext
+Free Text:OYSN\20:freetext
+Free Text:OYSN\21:freetext
+Free Text:OYSN\3:freetext
+Free Text:OYSN\3:freetext
+Free Text:OYSN\3:freetext
+Free Text:OYSN\3:freetext
+Free Text:OYSN\4:freetext
+Free Text:OYSN\4:freetext
+Free Text:OYSN\4:freetext
+Free Text:OYSN\4:freetext
+Free Text:OYSN\5:freetext
+Free Text:OYSN\5:freetext
+Free Text:OYSN\5:freetext
+Free Text:OYSN\5:freetext
+Free Text:OYSN\6:freetext
+Free Text:OYSN\6:freetext
+Free Text:OYSN\6:freetext
+Free Text:OYSN\7:freetext
+Free Text:OYSN\7:freetext
+Free Text:OYSN\8:freetext
+Free Text:OYSN\8:freetext
+Free Text:OYSN\9:freetext
+Free Text:OYSN\9:freetext
+Free Text:OYSN\A:freetext
+Free Text:OYSN\B:freetext
+Free Text:OYSN\NORTH:freetext
+Free Text:OYSN\SOUTH:freetext
+Geo:GEO:
+Geo:OYAA:
+Geo:OYSN:
+Runways:OYAA Aden Intl 08-26:centerline
+Runways:OYAA Aden Intl 08-26:extended centerline 1
+Runways:OYAA Aden Intl 08-26:extended centerline 1 left base
+Runways:OYAA Aden Intl 08-26:extended centerline 1 left ticks
+Runways:OYAA Aden Intl 08-26:extended centerline 1 left vectoring
+Runways:OYAA Aden Intl 08-26:extended centerline 1 right base
+Runways:OYAA Aden Intl 08-26:extended centerline 1 right ticks
+Runways:OYAA Aden Intl 08-26:extended centerline 1 right vectoring
+Runways:OYAA Aden Intl 08-26:extended centerline 2
+Runways:OYAA Aden Intl 08-26:extended centerline 2 left base
+Runways:OYAA Aden Intl 08-26:extended centerline 2 left ticks
+Runways:OYAA Aden Intl 08-26:extended centerline 2 left vectoring
+Runways:OYAA Aden Intl 08-26:extended centerline 2 right base
+Runways:OYAA Aden Intl 08-26:extended centerline 2 right ticks
+Runways:OYAA Aden Intl 08-26:extended centerline 2 right vectoring
+Runways:OYAA Aden Intl 08-26:name
+Runways:OYSN Sanaa Intl 18-36:centerline
+Runways:OYSN Sanaa Intl 18-36:extended centerline 1
+Runways:OYSN Sanaa Intl 18-36:extended centerline 1 left base
+Runways:OYSN Sanaa Intl 18-36:extended centerline 1 left ticks
+Runways:OYSN Sanaa Intl 18-36:extended centerline 1 left vectoring
+Runways:OYSN Sanaa Intl 18-36:extended centerline 1 right base
+Runways:OYSN Sanaa Intl 18-36:extended centerline 1 right ticks
+Runways:OYSN Sanaa Intl 18-36:extended centerline 1 right vectoring
+Runways:OYSN Sanaa Intl 18-36:extended centerline 2
+Runways:OYSN Sanaa Intl 18-36:extended centerline 2 left base
+Runways:OYSN Sanaa Intl 18-36:extended centerline 2 left ticks
+Runways:OYSN Sanaa Intl 18-36:extended centerline 2 left vectoring
+Runways:OYSN Sanaa Intl 18-36:extended centerline 2 right base
+Runways:OYSN Sanaa Intl 18-36:extended centerline 2 right ticks
+Runways:OYSN Sanaa Intl 18-36:extended centerline 2 right vectoring
+Runways:OYSN Sanaa Intl 18-36:name
+VORs:ABH:frequency
+VORs:ABH:name
+VORs:ABH:symbol
+VORs:ABI:frequency
+VORs:ABI:name
+VORs:ABI:symbol
+VORs:ASM:frequency
+VORs:ASM:name
+VORs:ASM:symbol
+VORs:BDR:frequency
+VORs:BDR:name
+VORs:BDR:symbol
+VORs:BSH:frequency
+VORs:BSH:name
+VORs:BSH:symbol
+VORs:DTI:frequency
+VORs:DTI:name
+VORs:DTI:symbol
+VORs:GIZ:frequency
+VORs:GIZ:name
+VORs:GIZ:symbol
+VORs:HDH:frequency
+VORs:HDH:name
+VORs:HDH:symbol
+VORs:KAM:frequency
+VORs:KAM:name
+VORs:KAM:symbol
+VORs:KRA:frequency
+VORs:KRA:name
+VORs:KRA:symbol
+VORs:KSL:frequency
+VORs:KSL:name
+VORs:KSL:symbol
+VORs:NEJ:frequency
+VORs:NEJ:name
+VORs:NEJ:symbol
+VORs:PSD:frequency
+VORs:PSD:name
+VORs:PSD:symbol
+VORs:QHA:frequency
+VORs:QHA:name
+VORs:QHA:symbol
+VORs:QUN:frequency
+VORs:QUN:name
+VORs:QUN:symbol
+VORs:RIN:frequency
+VORs:RIN:name
+VORs:RIN:symbol
+VORs:SAA:frequency
+VORs:SAA:name
+VORs:SAA:symbol
+VORs:SGD:frequency
+VORs:SGD:name
+VORs:SGD:symbol
+VORs:SHA:frequency
+VORs:SHA:name
+VORs:SHA:symbol
+VORs:SLL:frequency
+VORs:SLL:name
+VORs:SLL:symbol
+VORs:SOC:frequency
+VORs:SOC:name
+VORs:SOC:symbol
+VORs:TAZ:frequency
+VORs:TAZ:name
+VORs:TAZ:symbol
+VORs:THA:frequency
+VORs:THA:name
+VORs:THA:symbol
+VORs:TMR:frequency
+VORs:TMR:name
+VORs:TMR:symbol
+VORs:WDR:frequency
+VORs:WDR:name
+VORs:WDR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:GSiT
+WINDOWAREA:7.277641:33.827623:22.784701:67.478134
