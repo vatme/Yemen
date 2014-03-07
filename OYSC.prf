@@ -1,8 +1,11 @@
 Settings	sector	\OYSC.sct
 Settings	Settingsfile	\OYSC-settings.txt
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airways	\DataFiles\airway.txt
 Settings	AselKey	1769472
 Settings	FreqKey	2818048
-Voice	PPPT	18677760
 Settings	alias	\OYSC-settings.txt
 Settings	AtisFolder	\UniATIS_OYSC\atisfiles.txt
 Voice	SPPT	1900544
@@ -14,7 +17,6 @@ Settings	SettingsfileSIL	\OYSC-settings.txt
 Settings	SettingsfileSEL	\OYSC-settings.txt
 Settings	SettingsfileDEP	\OYSC-settings.txt
 Settings	SettingsfilePLUGINS	\OYSC-settings.txt
-Settings	airways	\..\DataFiles\AIRWAY.txt
 Settings	SettingsfileSCREEN	\OYSC-settings.txt
 Voice	Grammar	\..\Settings\ESGrammar.txt
 Settings	SectorFileProviderDescriptor	\..\SectorFileProviderDescriptor.txt
