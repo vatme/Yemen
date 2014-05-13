@@ -1,11 +1,11 @@
 [POSITIONS]
-Sanaa Control:Sanaa Control:125.300:SC:-:OYSC:CTR:-:-:2600:2677
-Sanaa Approach:Sanaa Approach:125.700:SA:-:OYSN:APP:-:-:2600:2677
-Sanaa Tower:Sanaa Tower:118.900:ST:-:OYSN:TWR:-:-:2600:2677
-Sanaa Ground:Sanaa Ground:121.600:SG:-:OYSN:GND:-:-:2600:2677
-Aden Approach:Aden Approach:119.700:AA:-:OYAA:APP:-:-:2600:2677
-Aden Tower:Aden Tower:118.700:AT:-:OYAA:TWR:-:-:2600:2677
-Aden Ground:Aden Ground:121.900:AG:-:OYAA:GND:-:-:2600:2677
+Sanaa Control:Sanaa Control:125.300:SC:-:OYSC:CTR:-:-:2600:2677:N015.28.44.994:E044.13.10.996:N014.39.31.999:E053.04.14.000
+Sanaa Approach:Sanaa Approach:125.700:SA:-:OYSN:APP:-:-:2600:2677:N015.28.44.994:E044.13.10.996
+Sanaa Tower:Sanaa Tower:118.900:ST:-:OYSN:TWR:-:-:2600:2677:N015.28.44.994:E044.13.10.996
+Sanaa Ground:Sanaa Ground:121.600:SG:-:OYSN:GND:-:-:2600:2677:N015.28.44.994:E044.13.10.996
+Aden Approach:Aden Approach:119.700:AA:-:OYAA:APP:-:-:2600:2677:N012.49.43.999:E045.01.46.999
+Aden Tower:Aden Tower:118.700:AT:-:OYAA:TWR:-:-:2600:2677:N012.49.43.999:E045.01.46.999
+Aden Ground:Aden Ground:121.900:AG:-:OYAA:GND:-:-:2600:2677:N012.49.43.999:E045.01.46.999
 
 [FREETEXT]
 N012.49.44.953:E045.01.17.140:Group:OYAA
