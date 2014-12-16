@@ -680,9 +680,10 @@ m_ClipArea:7
 END
 VOICE
 AG:OYSC_CTR:125.300:rw.liveatc.net:oysc_ctr
+AG:OYSN_APP:125.700:rw.liveatc.net:oysn_app
 AG:OYSN_TWR:118.900:rw.liveatc.net:oysn_twr
 AG:OYSN_GND:121.600:rw.liveatc.net:oysn_gnd
-AG:OYSN_APP:125.700:rw.liveatc.net:oysn_app
+AG:OYSN_ATIS:118.100:rw.liveatc.net:oysn_atis
 AG:OYAA_TWR:118.700:rw.liveatc.net:oyaa_twr
 AG:OYAA_GND:121.900:rw.liveatc.net:oyaa_gnd
 AG:OYAA_APP:119.700:rw.liveatc.net:oyaa_app
